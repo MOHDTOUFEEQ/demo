@@ -1,1 +1,1 @@
-print"hello")
+prit"hello")
