@@ -1,1 +1,2 @@
-prit"hello")
+print("hello toufeeq")
+
